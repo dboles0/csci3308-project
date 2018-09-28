@@ -12,12 +12,19 @@ Aside from the huge market demand for a service like this, we want to learn web-
 * There are many principles that go into REST API's that will be new
 * Exact framework and language are TBD
 * Employing web scraping might get shutdown on some websites
+* Overall security of creating an API
 
-Mitigation Strategy for above risks
-	Teamwork Teamwork Teamwork
+## Mitigation Strategy
+* Research web-scraping and REST API best practices early on
+* Research different frameworks and make a list of pros and cons
+* Look into the logisitics of acceptable web-scraping
+* The app will be developed locally, so a layer of security can be added at a later time in needed
 
-Development method: scrum, kanban, waterfall: with specifics!
-	Bi-Weekly Scrums pending out schedules
+## Development Method
+We will use the Agile Scrum method of development.  This will allow a greater flexibility in the project since as of right now the requirements are not concretely defined.
+* Hold biweekly scrum meetings
+* Rotate scrum master so everyone can experience being the srum master
+* 1 - 2 week sprint sessions to start, possibly adjust this length as project proceeds
 
-Project Tracking Software:
-	Trello
+## Project Tracking
+Project tracking will be conducting in Trello.  Tasks can be written on sticky notes, and during the scrum meetings, we will be able to go through the tasks and assign
