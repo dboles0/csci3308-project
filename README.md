@@ -27,4 +27,4 @@ We will use the Agile Scrum method of development.  This will allow a greater fl
 * 1 - 2 week sprint sessions to start, possibly adjust this length as project proceeds
 
 ## Project Tracking
-Project tracking will be conducting in Trello.  Tasks can be written on sticky notes, and during the scrum meetings, we will be able to go through the tasks and assign
+Project tracking will be conducting in Trello.  Tasks and stories can be written on sticky notes, and during the scrum meetings, we will be able to go through the tasks and assign numbers to the stories.
